@@ -9,9 +9,17 @@ $ java SortMain 76 11 -55 2 16 -21 7 88
 Skalet för klassen Sorter kommer se ut som följande. Den tar en osorterad lista av typen int[] och returneras en
 sorterad lista av samma typ.
 
+![image](https://user-images.githubusercontent.com/26309279/141968292-d3cb379c-d572-43f9-9e9b-4f61b598f58a.png)
 
 
 Skalet för klassen SortMain kommer se ut som följande. Denna klass är den som exekveras när vi exekverar.
+
+![image](https://user-images.githubusercontent.com/26309279/141968340-60021fdc-d8af-40d2-9447-1abdc5d582d8.png)
+
+
 Ni ska också skriva en klass SortTest som testar ert program. I denna klass ska ni köra minst 5 olika tester med
 olika testfall, negativa tal, 0 och positiva tal för att säkerställa att er sorteringsalgoritm fungerar för alla möjliga
 listor av tal.
+
+![image](https://user-images.githubusercontent.com/26309279/141968396-2114d018-5764-4aa4-86f1-a38c06e2a9eb.png)
+
