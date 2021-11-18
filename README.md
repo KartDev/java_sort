@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+Uppgiften:
+
 I den här uppgiften ska ni skriva en sorteringsmetod "sort" som tar en lista av tal (int) och sorterar dom. Listan
 ges som argument till programmet vid körning. Sedan ska denna argumentlista konverteras från String[] till int[] i
 SortMain.main metoden. Därefter ges till den konverterade listan till Sorter.sort metoden som sorterar listan och
