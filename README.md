@@ -32,3 +32,10 @@ listor av tal.
 
 ![image](https://user-images.githubusercontent.com/26309279/141968396-2114d018-5764-4aa4-86f1-a38c06e2a9eb.png)
 
+Instruktioner:
+
+Klona projektet.
+Öppna mappen i en terminal.
+Kompilera om det ej är gjort med kommandot: javac Sorter.java SortMain.java SortTest.java
+Kör huvudprogrammet med kommandot: java SortMain <SkrivNummerFörSorteringHär>
+Kör testprogrammet med kommandot: java SortTest
