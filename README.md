@@ -35,7 +35,11 @@ listor av tal.
 Instruktioner:
 
 Klona projektet.
+
 Öppna mappen i en terminal.
+
 Kompilera om det ej är gjort med kommandot: javac Sorter.java SortMain.java SortTest.java
+
 Kör huvudprogrammet med kommandot: java SortMain <SkrivNummerFörSorteringHär>
+
 Kör testprogrammet med kommandot: java SortTest
